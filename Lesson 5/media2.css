@@ -1,0 +1,43 @@
+@media  screen and (min-width: 0) and (max-width: 412px){
+    .bottomBlock{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .rightSide{
+        width: 100%;
+    }
+
+    .leftSide{
+        width: 100%;
+    }
+
+    .leftBottom{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .lBlock, .mBlock, .rBlock{
+        background-color: mediumpurple;
+        height: 30%;
+        width: 30%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

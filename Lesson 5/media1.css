@@ -1,0 +1,28 @@
+@media screen and (min-width: 0) and (max-width: 412px){
+   .content{
+       display: flex;
+       flex-direction: column;
+
+
+
+   }
+    .bottom{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+    }
+    .right, .left{
+
+        width: 100%;
+
+
+
+    }
+    .left{
+       
+        margin-bottom: 10px;
+    }
+
+
+}

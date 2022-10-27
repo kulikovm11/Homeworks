@@ -1,0 +1,36 @@
+.content{
+    height: 99vh;
+    /*background-color: grey;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 5px;
+}
+.top{
+height: 30%;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+
+}
+.bottom{
+    height: 69%;
+    /*background-color: aqua;*/
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.left{
+   background-color: darkgreen;
+    width: 69.5%;
+    height: 100%;
+    border-radius: 10px;
+}
+.right{
+    background-color: orange;
+    width: 30%;
+    height: 100%;
+    border-radius: 10px;
+
+
+}
